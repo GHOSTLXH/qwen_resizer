@@ -1,0 +1,14 @@
+[project]
+name = "ComfyUI-qwen_resizer"
+description = "This is a ComfyUI node used to resize input images to a resolution suitable for the qwen-image-edit model. "
+version = "1.0.1"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/GHOSTLXH/qwen_resizer"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "ghostlxh"
+DisplayName = "ComfyUI-qwen_preprocessor"
+Icon = ""
